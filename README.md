@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">Oi, sou Lucas Farias<br><br>- 🔭 sou acadêmico de Ciência da Computação na Universidade Federal do Brasil<br>- 📚 Atualmente estou estudando NEXT.js<br></p>
+<p align="center">Oi, sou Lucas Farias<br><br>- 🔭 sou acadêmico de Ciência da Computação na Universidade Federal do Tocantins<br>- 📚 Atualmente estou estudando NEXT.js<br></p>
 
 ###
 
